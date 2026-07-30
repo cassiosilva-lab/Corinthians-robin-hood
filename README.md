@@ -35,8 +35,8 @@ Em vez de ficar na opinião, decidi testar essa hipótese com dados reais de 10 
 ├── 🐍 analise.py                         # Script de análise em Python
 ├── 📊 campeonato-brasileiro-full.csv     # Base de dados (Kaggle)
 ├── 📑 dashboard_ano_a_ano.csv            # Dados pré-calculados: por temporada  
-├── 📑 dashboard_desempenho_geral.csv     # Dados pré-calculados: por faixa de tabela
-└── 📑 dashboard_geral.csv                # Dados pré-calculados: visão geral
+├── 📑 dashboard_desempenho_geral.csv     # Dados pré-calculados: visão geral 2015-2024
+└── 📑 dashboard_geral.csv                # Dados pré-calculados: visão geral grandes x pequenos
 ```
 
 ---
